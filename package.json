@@ -9,6 +9,6 @@
   "author": "Keith Cirkel (https://keithcirkel.co.uk/)",
   "license": "MIT",
   "dependencies": {
-    "postcss": "^7.0.18"
+    "postcss": "^8.2.10"
   }
 }
