@@ -1,5 +1,5 @@
 {
-  "name": "postcss-lockfile",
+  "name": "@koddsson/postcss-lockfile",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
